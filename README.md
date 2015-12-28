@@ -55,4 +55,4 @@ The project is currently unlicensed
 Contacts
 ----------------
 If you have any questions/concerns about the project or would like to 
-know more about the development process please email ldp343@mail.usask.ca
+know more about the development process please email corey.hickson@usask.ca
